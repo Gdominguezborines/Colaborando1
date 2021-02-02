@@ -6,5 +6,6 @@ public class Gabriel {
         System.out.println("Esta es la rama del colaborador gabriel");
         System.out.println("Esta es la segunda rama del colaborador gabriel");
     // resuelto fallo de entrada
+        //resuelto entrada 2
     }
 }
